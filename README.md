@@ -1,4 +1,4 @@
-AWS Skill Builder - Data Analytics Fundamentals
+#AWS Skill Builder - Data Analytics Fundamentals
 4h
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/44/data-analytics-fundamentals
@@ -7,7 +7,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/570/data-a
 
 ------
 
-AWS Partner: Data Analytics on AWS (Business)
+#AWS Partner: Data Analytics on AWS (Business)
 4h
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2822/aws-partner-data-analytics-on-aws-business
@@ -16,7 +16,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/8278/aws-p
 
 ------
 
-AWS Skill Builder - Introduction to Amazon Kinesis Streams
+#AWS Skill Builder - Introduction to Amazon Kinesis Streams
 12m
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/157/introduction-to-amazon-kinesis-streams
@@ -25,7 +25,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4156/intro
 
 ------
 
-AWS Skill Builder - Introduction to Amazon Kinesis Analytics
+#AWS Skill Builder - Introduction to Amazon Kinesis Analytics
 7m
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/131/introduction-to-amazon-kinesis-analytics
@@ -34,7 +34,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4573/intro
 
 ------
 
-AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR)
+#AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR)
 15m
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/135/introduction-to-amazon-elastic-mapreduce-emr
@@ -43,7 +43,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4653/intro
 
 ------
 
-AWS Skill Builder - Introduction to Amazon Athena
+#AWS Skill Builder - Introduction to Amazon Athena
 10m
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/152/introduction-to-amazon-athena
@@ -52,7 +52,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5838/intro
 
 ------
 
-AWS Skill Builder - Introduction to Amazon Quicksight
+#AWS Skill Builder - Introduction to Amazon Quicksight
 10m
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/137/introduction-to-amazon-quicksight
@@ -61,21 +61,21 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1894/intro
 
 ------
 
-AWS Skill Builder - Introduction to AWS IoT Analytics
+#AWS Skill Builder - Introduction to AWS IoT Analytics
 30m
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/153/introduction-to-aws-iot-analytics
 
 ------
 
-AWS Skill Builder - Getting Started with Amazon Redshift
+#AWS Skill Builder - Getting Started with Amazon Redshift
 1h
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13655/getting-started-with-amazon-redshift
 
 ------
 
-AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data
+#AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data
 35m
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/138/deep-dive-into-concepts-and-tools-for-analyzing-streaming-data-on-aws
@@ -84,7 +84,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6449/deep-
 
 ------
 
-AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift
+#AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift
 1h
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/100/best-practices-for-data-warehousing-with-amazon-redshift
@@ -93,7 +93,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6339/best-
 
 ------
 
-AWS Skill Builder - Serverless Analytics
+#AWS Skill Builder - Serverless Analytics
 30m
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/26/serverless-analytics
@@ -102,7 +102,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6256/serve
 
 ------
 
-AWS Skill Builder - Why Analytics for Games
+#AWS Skill Builder - Why Analytics for Games
 15m
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/133/why-analytics-for-games

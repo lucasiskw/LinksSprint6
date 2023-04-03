@@ -3,7 +3,7 @@
 ###### 4h
 
 
-<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/44/data-analytics-fundamentals" target="_blank">oi</a>
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/44/data-analytics-fundamentals
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/570/data-analytics-fundamentals-portuguese
 

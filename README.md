@@ -1,4 +1,4 @@
-###### LinksSprint6
+<!-- LinksSprint6 -->
 
 ### AWS Skill Builder - Data Analytics Fundamentals 
 

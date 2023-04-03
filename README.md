@@ -120,4 +120,4 @@
 
 <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/133/why-analytics-for-games" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/133/why-analytics-for-games</a>
 
-<a target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5716/why-analytics-for-games-portuguese</a>
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5716/why-analytics-for-games-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5716/why-analytics-for-games-portuguese</a>

@@ -12,9 +12,9 @@
 
 ###### 4h
 
-<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2822/aws-partner-data-analytics-on-aws-business" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2822/aws-partner-data-analytics-on-aws-business</a>
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2822/aws-partner-data-analytics-on-aws-business" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2822/aws-partner-data-analytics-on-aws-business</a>
 
-<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/8278/aws-partner-data-analytics-on-aws-business-portuguese" target="_blank">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/8278/aws-partner-data-analytics-on-aws-business-portuguese</a>
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/8278/aws-partner-data-analytics-on-aws-business-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/8278/aws-partner-data-analytics-on-aws-business-portuguese</a>
 
 ------
 
@@ -22,9 +22,9 @@
 
 ###### 12m
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/157/introduction-to-amazon-kinesis-streams
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/157/introduction-to-amazon-kinesis-streams" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/157/introduction-to-amazon-kinesis-streams</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4156/introduction-to-amazon-kinesis-streams-portuguese
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4156/introduction-to-amazon-kinesis-streams-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4156/introduction-to-amazon-kinesis-streams-portuguese</a>
 
 ------
 
@@ -32,9 +32,9 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4156/intro
 
 ###### 7m
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/131/introduction-to-amazon-kinesis-analytics
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/131/introduction-to-amazon-kinesis-analytics" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/131/introduction-to-amazon-kinesis-analytics</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4573/introduction-to-amazon-kinesis-analytics-portuguese
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4573/introduction-to-amazon-kinesis-analytics-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4573/introduction-to-amazon-kinesis-analytics-portuguese</a>
 
 ------
 
@@ -42,9 +42,9 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4573/intro
 
 ###### 15m
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/135/introduction-to-amazon-elastic-mapreduce-emr
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/135/introduction-to-amazon-elastic-mapreduce-emr" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/135/introduction-to-amazon-elastic-mapreduce-emr</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4653/introduction-to-amazon-elastic-mapreduce-emr-portuguese
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4653/introduction-to-amazon-elastic-mapreduce-emr-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4653/introduction-to-amazon-elastic-mapreduce-emr-portuguese</a>
 
 ------
 
@@ -52,9 +52,9 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/4653/intro
 
 ###### 10m
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/152/introduction-to-amazon-athena
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/152/introduction-to-amazon-athena" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/152/introduction-to-amazon-athena</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5838/introduction-to-amazon-athena-portuguese
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5838/introduction-to-amazon-athena-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5838/introduction-to-amazon-athena-portuguese</a>
 
 ------
 
@@ -62,9 +62,9 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5838/intro
 
 ###### 10m
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/137/introduction-to-amazon-quicksight
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/137/introduction-to-amazon-quicksight" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/137/introduction-to-amazon-quicksight</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1894/introduction-to-amazon-quicksight-portuguese
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1894/introduction-to-amazon-quicksight-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1894/introduction-to-amazon-quicksight-portuguese</a>
 
 ------
 
@@ -72,7 +72,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1894/intro
 
 ###### 30m
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/153/introduction-to-aws-iot-analytics
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/153/introduction-to-aws-iot-analytics" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/153/introduction-to-aws-iot-analytics</a>
 
 ------
 
@@ -80,7 +80,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/153/introd
 
 ###### 1h
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13655/getting-started-with-amazon-redshift
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13655/getting-started-with-amazon-redshift" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13655/getting-started-with-amazon-redshift</a>
 
 ------
 
@@ -88,9 +88,9 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13655/gett
 
 ###### 35m
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/138/deep-dive-into-concepts-and-tools-for-analyzing-streaming-data-on-aws
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/138/deep-dive-into-concepts-and-tools-for-analyzing-streaming-data-on-aws" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/138/deep-dive-into-concepts-and-tools-for-analyzing-streaming-data-on-aws</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6449/deep-dive-into-concepts-and-tools-for-analyzing-streaming-data-portuguese
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6449/deep-dive-into-concepts-and-tools-for-analyzing-streaming-data-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6449/deep-dive-into-concepts-and-tools-for-analyzing-streaming-data-portuguese</a>
 
 ------
 
@@ -98,9 +98,9 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6449/deep-
 
 ###### 1h
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/100/best-practices-for-data-warehousing-with-amazon-redshift
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/100/best-practices-for-data-warehousing-with-amazon-redshift" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/100/best-practices-for-data-warehousing-with-amazon-redshift</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6339/best-practices-for-data-warehousing-with-amazon-redshift-portuguese
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6339/best-practices-for-data-warehousing-with-amazon-redshift-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6339/best-practices-for-data-warehousing-with-amazon-redshift-portuguese</a>
 
 ------
 
@@ -108,9 +108,9 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6339/best-
 
 ###### 30m
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/26/serverless-analytics
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/26/serverless-analytics" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/26/serverless-analytics</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6256/serverless-analytics-portuguese
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6256/serverless-analytics-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6256/serverless-analytics-portuguese</a>
 
 ------
 
@@ -118,6 +118,6 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6256/serve
 
 ###### 15m
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/133/why-analytics-for-games
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/133/why-analytics-for-games" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/133/why-analytics-for-games</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5716/why-analytics-for-games-portuguese
+<a target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5716/why-analytics-for-games-portuguese</a>

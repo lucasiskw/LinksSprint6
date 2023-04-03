@@ -2,7 +2,7 @@
 
 ###### 4h
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/44/data-analytics-fundamentals
+<a target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/44/data-analytics-fundamentals</a>
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/570/data-analytics-fundamentals-portuguese
 

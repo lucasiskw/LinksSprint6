@@ -4,7 +4,7 @@
 
 <a target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/44/data-analytics-fundamentals</a>
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/570/data-analytics-fundamentals-portuguese
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/570/data-analytics-fundamentals-portuguese" target="_blank" rel="noopener noreferrer">https://explore.skillbuilder.aws/learn/course/internal/view/elearning/570/data-analytics-fundamentals-portuguese</a>
 
 ------
 
@@ -12,7 +12,7 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/570/data-a
 
 ###### 4h
 
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2822/aws-partner-data-analytics-on-aws-business
+<a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2822/aws-partner-data-analytics-on-aws-business" target="_blank" rel="noopener noreferrer"></a>
 
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/8278/aws-partner-data-analytics-on-aws-business-portuguese
 
